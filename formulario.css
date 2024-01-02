@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Ubuntu:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Condensed:wght@700 & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Roboto+Condensed:wght@700 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Montserrat:wght@500;700&family=Roboto:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
+.mensagem {
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+.certo {
+    width: 90px;
+    height: 90px;
+    margin-top: 280px;
+}
+
+body{
+    background: url(fundodapaginaindex.png) no-repeat; /*Colocar uma foto minha na seleção toda da pagína*/
+    background-size: cover;
+    height: 100vh;
+    color: #fff;
+    min-height: 500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-link {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.navbar .nav-item .nav-link.active,
+  .navbar .nav-item .nav-link:hover
+  {
+      color: #2F9FE8;
+  }
